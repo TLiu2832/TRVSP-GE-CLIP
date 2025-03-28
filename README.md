@@ -1,23 +1,16 @@
-# ScRL: Shape-centered Representation Learning for Visible-Infrared Person Re-identification
+# Transferring and Refining Visual-Semantic Priors via Graph-Enhanced CLIP for 3D Hand Pose Estimation
 
-This is the official repository for **ScRL**, a novel framework designed for **Visible-Infrared Person Re-Identification (VI-ReID)**.
+This is the official repository for **TRVSP-GE-CLIP**, a novel framework designed for **3D Hand Pose Estimation**.
 
 🚀 **Code Coming Soon!** The source code and pre-trained models will be publicly available.
 
 ---
 
 ## 🔥 Introduction
-**ScRL** effectively integrates **shape and appearance features** to improve VI-ReID performance. It addresses the **modality variations** between visible and infrared images, ensuring **robust person retrieval** under different modalities.
+In this work, we propose a **Graph-Enhanced CLIP** to deliver **visual-semantic priors** to DNNs and refine the **domain-specific knowledge** for better 3D hand pose estimation.
 ---
 
 ## 📖 Paper
-Our paper **"ScRL: Shape-centered Representation Learning for Visible-Infrared Person Re-identification"** has been submitted for review.  
-- 📢 **[[Paper link](https://arxiv.org/pdf/2310.17952)]** (Coming soon)
-
-
-
-
-
-
+Our paper **"Transferring and Refining Visual-Semantic Priors via Graph-Enhanced CLIP for 3D Hand Pose Estimation"** has been submitted for review.
 
 
